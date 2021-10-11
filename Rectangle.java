@@ -1,3 +1,6 @@
+/*
+* Leong Li, 217270380
+*/
 import java.awt.Color;
 
 public class Rectangle extends Shape{
